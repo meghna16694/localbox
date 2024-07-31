@@ -1,0 +1,16 @@
+.main{
+  display: flex;
+  justify-content: space-around;
+}
+
+.form-container{
+  width: 400px;
+  height: 300px;
+ 
+}
+
+.view-container{
+  width: 400px;
+  height: 100px;
+
+}
